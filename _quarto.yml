@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Bonnie's Repo?"
+  title: "Bonnie's Repo"
   site-url: "https://bonniewohoo.github.io/cpsc_601"
 
 format:

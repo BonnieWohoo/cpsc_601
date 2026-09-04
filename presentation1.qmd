@@ -1,5 +1,5 @@
 ---
-title: "Habits"
+title: "Presentation 1"
 author: "Bonnie"
 format: 
   revealjs:
@@ -13,12 +13,14 @@ format:
       data-background-position: "bottom"
 ---
 
-## Getting up
+## Slide 1
 
 - Turn off alarm
 - Get out of bed
 
-## Going to sleep
+## Slide 2
 
 - Get in bed
 - Count sheep
+
+## Slide 3
