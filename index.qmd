@@ -3,7 +3,7 @@ title: "Habits"
 author: "Bonnie"
 format: 
   revealjs:
-    theme: default
+    theme: league
     slide-number: true
     chalkboard: true
     logo: your-logo.png
