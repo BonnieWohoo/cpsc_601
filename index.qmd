@@ -1,7 +1,18 @@
 ---
 title: "Habits"
-author: "John Doe"
-format: revealjs
+author: "Bonnie"
+format: 
+  revealjs:
+    theme: default
+    slide-number: true
+    chalkboard: true
+    logo: your-logo.png
+    footer: "Your Footer Text"
+    title-slide-attributes:
+      data-background-image: "background.svg"
+      data-background-size: "auto"
+      data-background-opacity: "0.3"
+      data-background-position: "bottom"
 ---
 
 ## Getting up
